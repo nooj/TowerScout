@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+title: TowerScout
+message: >-
+  TowerScout is a tool for identifying cooling towers from
+  satellite and aerial imagery.
+type: software
+authors:
+  - given-names: KK
+    family-names: Wong
+    email: kwong.cdc@gmail.com
+    affiliation: Centers for Disease Control and Prevention
+    name-suffix: MD
+  - given-names: T
+    family-names: Segura
+  - given-names: G
+    family-names: Mein
+  - given-names: Alberto
+    family-names: Todeschini
+    name-suffix: PhD
+    affiliation: 'University of California, Berkeley'
+  - given-names: Fred
+    family-names: Nugen
+    name-suffix: PhD
+    orcid: 'https://orcid.org/0000-0002-6761-7035'
+    affiliation: 'University of California, Berkeley'
+identifiers:
+  - type: doi
+    value: 10.1016/S2589-7500(24)00094-3
+repository-code: 'https://github.com/TowerScout/TowerScout'
+url: 'https://github.com/TowerScout/TowerScout'
+abstract: >-
+  TowerScout is a tool for identifying cooling towers from
+  satellite and aerial imagery. Cooling towers are potential
+  sources of Legionella bacteria, which causes Legionnaires'
+  disease. TowerScout has been utilized in over 12
+  investigations of outbreaks of Legionnaires' disease
+  across 8 states since 2021. It can be used after outbreaks
+  to identify potential sources of Legionella, and it can be
+  used before outbreaks to build and update a registry of
+  cooling towers to aid future investigations.
+keywords:
+  - Legionella
+  - satellite imagery
+  - machine learning
+  - image transformers
+license: CC-BY-NC-SA-4.0
+commit: 338b75d
+date-released: '2024-07-01'
