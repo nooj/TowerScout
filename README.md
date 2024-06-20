@@ -29,9 +29,8 @@ Jessica C Smith, and
 
 ## Attribution
 Please cite the following publication and this GitHub repository when utilizing TowerScout:
-- Wong, KK, Segura T, Mein G, Lu J, Hannapel EJ, Kunz JM, Ritter T, Smith JC, Todeschini A, Nugen F, Edens C. Automated cooling tower detection through deep learning for Legionnaires’ disease outbreak investigations: a model development and validation study. *Lancet Digit Health.* 2024;6(7):e500-e506. [doi.org/10.1016/S2589-7500(24)00094-3](https://doi.org/10.1016/S2589-7500(24)00094-3)
-- [TO COME: [CITATION.cff file](https://citation-file-format.github.io/)]
-
+- Wong KK, Segura T, Mein G, Lu J, Hannapel EJ, Kunz JM, Ritter T, Smith JC, Todeschini A, Nugen F, Edens C. Automated cooling tower detection through deep learning for Legionnaires’ disease outbreak investigations: a model development and validation study. *Lancet Digit Health.* 2024;6(7):e500-e506. [doi.org/10.1016/S2589-7500(24)00094-3](https://doi.org/10.1016/S2589-7500(24)00094-3)
+- Wong KK, Segura T, Mein G, Lu J, Hannapel EJ, Kunz JM, Ritter T, Smith JC, Todeschini A, Nugen F, Edens C. (2024). TowerScout [Computer software]. https://github.com/TowerScout/TowerScout
 
 ## Additional files
 * [YOLOv5 weights](https://drive.google.com/file/d/1EBxgqr6MrkAkEv1vJ2ftZiSjs6w865wf/view?usp=drive_link)
